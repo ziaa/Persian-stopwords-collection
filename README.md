@@ -8,3 +8,4 @@
 |[Nima Mazdak](https://people.dsv.su.se/~hercules/papers/FarsiSum.pdf)|[Persian_StopList.txt](Stopwords/Mazdak/Persian_StopList.txt)|149|?|In the main source [(+)](https://people.dsv.su.se/~hercules/papers/FarsiSum.pdf) stopwords are categorized into pronoun, conjunction & quantifier, adverb, preposition and verb|
 |[Mohammd Mahdi Mojiry](http://www.mojiry.ir/text_tools/WordFrequencePage.php)|[PersianStopWords.txt](Stopwords/Mojiry/PersianStopWords.txt)|796|?||
 |[Kharazi](https://github.com/kharazi/persian-stopwords)|[Pesian_Stop_Words_List.txt](Stopwords/Kharazi/Pesian_Stop_Words_List.txt)|778|?||
+|[Shokri](https://github.com/amirshnll/persian-stop-word/)|[stop-words.txt](Stopwords/shokri/stop-words.txt)|2435|MIT||
